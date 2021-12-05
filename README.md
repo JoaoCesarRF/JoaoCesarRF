@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoaoCesarRF
-- 👀 I’m interested in python
+- 👀 I’m interested in python, django, sql
 - 🌱 I’m currently learning software engineer
 - 💞️ I’m looking to collaborate on python development
 - 📫 How to reach me email
